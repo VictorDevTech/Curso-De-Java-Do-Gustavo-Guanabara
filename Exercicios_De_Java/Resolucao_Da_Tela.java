@@ -4,7 +4,7 @@ import java.awt.Toolkit;
 
 public class Resolucao_Da_Tela {
     
-    public static void main(String[] argd) {
+    public static void main(String[] args) {
         
         // Toolkit é a classe que permite acessar informações do sistema
         // getDefaultToolkit() pega as configurações padrão do computador

@@ -2,7 +2,7 @@ import java.util.Locale;
 
 public class Idioma_Do_Sistema {
     
-    public static void main(String[] argd) {
+    public static void main(String[] args) {
 
         // Locale é a classe que guarda informações de idioma e país
         // getDefault() pega a configuração atual do computador

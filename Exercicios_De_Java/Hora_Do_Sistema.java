@@ -3,7 +3,7 @@ import java.util.Date;
 
 public class Hora_Do_Sistema {
 
-    public static void main(String[] argd) {
+    public static void main(String[] args) {
 
         // Cria um objeto que pega a data e a hora atual do computador
         Date relogio = new Date();
