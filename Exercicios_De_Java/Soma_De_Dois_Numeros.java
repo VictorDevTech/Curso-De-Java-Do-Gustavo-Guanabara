@@ -15,5 +15,6 @@ public class Soma_De_Dois_Numeros {
             float soma = numero1 + numero2;
 
             System.out.println("A soma entre os números é: " + soma);
+
     }
 }
