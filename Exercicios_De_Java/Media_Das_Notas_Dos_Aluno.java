@@ -4,6 +4,7 @@ public class Media_Das_Notas_Dos_Aluno {
     
     public static void main(String[] argd){
 
+
         Scanner teclado = new Scanner(System.in);
 
             System.out.print("Digite o nome do aluno: ");
@@ -31,3 +32,4 @@ public class Media_Das_Notas_Dos_Aluno {
             }
     }
 }
+
